@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thaichicken0210
+- 👋 Hi, I’m @magistrasbc
 - 👀 I’m interested in ... human languages, education, and how to cut down on my paperwork.
 - 🌱 I’m currently learning ... how to get enough sleep.
 - 💞️ I’m looking to collaborate on ... nothing much, since i don't have a strong base in writing my own code yet. i can pick apart and modify something already functional, usually, but starting from scratch is not my forte.
